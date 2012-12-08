@@ -1,0 +1,233 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'divider[20]'
+Slack : -159.735
+TNS   : -15843.575
+
+Type  : Slow 1200mV 85C Model Setup 'divider[8]'
+Slack : -16.572
+TNS   : -519.156
+
+Type  : Slow 1200mV 85C Model Setup 'divider[21]'
+Slack : -4.112
+TNS   : -4629.340
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -0.310
+TNS   : -3.281
+
+Type  : Slow 1200mV 85C Model Setup 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 14.801
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : -0.582
+TNS   : -2.072
+
+Type  : Slow 1200mV 85C Model Hold 'divider[20]'
+Slack : 0.230
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divider[21]'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'divider[8]'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 15.273
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'clk'
+Slack : 18.024
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk'
+Slack : 1.030
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.800
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divider[21]'
+Slack : -1.000
+TNS   : -4234.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divider[20]'
+Slack : -1.000
+TNS   : -3763.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'divider[8]'
+Slack : -1.000
+TNS   : -87.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : 9.680
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 249.747
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'divider[20]'
+Slack : -142.679
+TNS   : -13793.380
+
+Type  : Slow 1200mV 0C Model Setup 'divider[8]'
+Slack : -14.846
+TNS   : -462.509
+
+Type  : Slow 1200mV 0C Model Setup 'divider[21]'
+Slack : -3.620
+TNS   : -3742.891
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -0.199
+TNS   : -1.517
+
+Type  : Slow 1200mV 0C Model Setup 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 15.372
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -0.587
+TNS   : -2.200
+
+Type  : Slow 1200mV 0C Model Hold 'divider[20]'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divider[21]'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'divider[8]'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 15.791
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'clk'
+Slack : 18.242
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk'
+Slack : 0.935
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.462
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divider[21]'
+Slack : -1.000
+TNS   : -4234.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divider[20]'
+Slack : -1.000
+TNS   : -3763.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'divider[8]'
+Slack : -1.000
+TNS   : -87.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.697
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 249.743
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'divider[20]'
+Slack : -89.801
+TNS   : -8151.073
+
+Type  : Fast 1200mV 0C Model Setup 'divider[8]'
+Slack : -9.626
+TNS   : -267.022
+
+Type  : Fast 1200mV 0C Model Setup 'divider[21]'
+Slack : -1.925
+TNS   : -1237.834
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -0.062
+TNS   : -0.157
+
+Type  : Fast 1200mV 0C Model Setup 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 16.913
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : -0.407
+TNS   : -2.075
+
+Type  : Fast 1200mV 0C Model Hold 'divider[20]'
+Slack : 0.097
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divider[21]'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'divider[8]'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 17.163
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clk'
+Slack : 18.837
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk'
+Slack : 0.556
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.562
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divider[21]'
+Slack : -1.000
+TNS   : -4234.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divider[20]'
+Slack : -1.000
+TNS   : -3763.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'divider[8]'
+Slack : -1.000
+TNS   : -87.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.443
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Sensor|u_spipll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 249.781
+TNS   : 0.000
+
+------------------------------------------------------------

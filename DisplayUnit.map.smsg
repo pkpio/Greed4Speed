@@ -1,0 +1,4 @@
+Info (10281): Verilog HDL Declaration information at spi_param.h(8): object "READ_MODE" differs only in case from object "read_mode" in the same scope
+Warning (10268): Verilog HDL information at GLCD_driver.v(27): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at DisplayUnit.v(52): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at DisplayUnit.v(1132): always construct contains both blocking and non-blocking assignments

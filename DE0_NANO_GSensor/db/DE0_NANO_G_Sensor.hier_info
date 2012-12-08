@@ -1,0 +1,25 @@
+|GLCD_driver
+clk => divider[0].CLK
+clk => divider[1].CLK
+clk => divider[2].CLK
+clk => divider[3].CLK
+clk => divider[4].CLK
+clk => divider[5].CLK
+clk => divider[6].CLK
+clk => divider[7].CLK
+clk => divider[8].CLK
+clk => divider[9].CLK
+clk => divider[10].CLK
+clk => divider[11].CLK
+clk => divider[12].CLK
+clk => divider[13].CLK
+clk => divider[14].CLK
+clk => divider[15].CLK
+clk => divider[16].CLK
+clk => divider[17].CLK
+clk => divider[18].CLK
+clk => divider[19].CLK
+clk => divider[20].CLK
+clk => divider[21].CLK
+
+

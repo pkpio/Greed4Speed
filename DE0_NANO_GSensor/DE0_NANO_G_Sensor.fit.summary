@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Dec 02 12:48:17 2012
+Quartus II Version : 11.0 Build 157 04/27/2011 SJ Web Edition
+Revision Name : DE0_NANO_G_Sensor
+Top-level Entity Name : GLCD_driver
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 89 / 22,320 ( < 1 % )
+    Total combinational functions : 89 / 22,320 ( < 1 % )
+    Dedicated logic registers : 59 / 22,320 ( < 1 % )
+Total registers : 59
+Total pins : 15 / 154 ( 10 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat May 26 03:29:08 2012
+Quartus II 32-bit Version : 11.1 Build 216 11/23/2011 SP 1 SJ Web Edition
+Revision Name : DisplayUnit
+Top-level Entity Name : DisplayUnit
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 12,411 / 22,320 ( 56 % )
+    Total combinational functions : 10,717 / 22,320 ( 48 % )
+    Dedicated logic registers : 4,629 / 22,320 ( 21 % )
+Total registers : 4629
+Total pins : 21 / 154 ( 14 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
