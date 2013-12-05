@@ -19,7 +19,7 @@ module DisplayUnit(clk, lcd_e, lcd_rs, lcd_rw, reset, cs1, cs2, lcd_data,,G_SENS
 	reg[7:0] mem[0:7][0:255];
 	reg[7:0] temp1, temp2, temp3, temp4, temp5, temp6, temp7;
 
-	//Raaz variables 
+	//memory variables 
 	reg[7:0] tmem[0:7][0:127]; //temporary memory for gameover and welcome
 	reg gameover=0; 
 	integer l,j, k; 
